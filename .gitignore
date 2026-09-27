@@ -1,0 +1,19 @@
+
+# CMake
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.elf
+*.bin
+*.hex
+
+# Build directories
+build/
+debug/
+release/
