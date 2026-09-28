@@ -5,3 +5,4 @@ set(CMAKE_C_STANDARD 99)
 
 add_subdirectory(1-lesson)
 add_subdirectory(2-lesson)
+add_subdirectory(3-lesson)
