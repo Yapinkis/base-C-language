@@ -1,0 +1,5 @@
+add_executable(lesson-6_task-1 1-task.c)
+add_executable(lesson-6_task-2 2-task.c)
+add_executable(lesson-6_task-3 3-task.c)
+add_executable(lesson-6_task-4 4-task.c)
+add_executable(lesson-6_task-5 5-task.c)
