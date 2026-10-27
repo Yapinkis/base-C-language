@@ -1,0 +1,1 @@
+add_executable(lesson-7_task-1 1-task.c)
